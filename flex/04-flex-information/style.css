@@ -6,10 +6,7 @@ body {
 .content {
   display: flex;  
   gap: 52px;
-  align-items:center; 
-  flex-basis: 200px;
-  justify-content: space-evenly;
-  
+  justify-content: center;
 }
 
 img {
@@ -26,7 +23,6 @@ img {
 
 .chili, .pepper, .saffron, .barberry{
  text-align: center;
-
  width: 200px;
 }
 
